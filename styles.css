@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background-color: #F5EFF5;
+    padding: 25px;
+}
+
+h1 {
+    color: #BF0083;
+    text-align: center;
+    margin: 7px;
+}
+
+h2 {
+    color: #482D47;
+    text-align: center;
+    margin: 25px;
+}
+
+h4 {
+    margin: 5px 0 20px 0;
+    color: #465780;
+    font-size: 1.4em;
+    padding: 15px;
+}
+p {
+    color: #0033FF;
+    font-size: 20px;
+    font-style: italic;
+}
+span {
+    font-weight: bold;
+    font-style: italic;
+    display: block;
+}
+.submodulo {
+    BACKGROUND-COLOR: #B2DFDB;
+    color: white;
+    padding: 10px;
+    margin: 10px 0;
+}
